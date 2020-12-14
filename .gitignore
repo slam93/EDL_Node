@@ -1,0 +1,13 @@
+.env
+node_modules/
+node_modules
+server.js
+tmp
+tmp/
+package-lock.json
+front/front/*
+debug.log
+env
+all-access.txt
+conf-debug
+uploads/images
